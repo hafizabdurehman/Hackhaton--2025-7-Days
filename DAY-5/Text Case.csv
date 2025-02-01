@@ -1,0 +1,17 @@
+Test Case ID,Test Case Description,Expected Result,Actual Result,Status,Comments
+TC001,Check Homepage Product Display,New ceramics and popular products are displayed.,New ceramics and popular products are displayed correctly.,Pass,Homepage displays new ceramics and popular products.
+TC002,Check Product Listing Page,Product listing page shows available products.,Product listing page shows correct product details,Pass,Product listing page works correctly.
+TC003,Check 'New Ceramics' Section on Homepage,New ceramics section displays relevant items.,Correct new ceramics are displayed.,Pass,New ceramics section is working fine.
+TC004,Check 'Popular Products' Section on Homepage,Popular products are displayed correctly.,Correct popular products are displayed.,Pass,Popular products are showing as expected.
+TC005,Check Navigation to Product Listing Page,Clicking category navigates to product listing page.,Clicking category navigates correctly to product listing.,Pass,Navigation works as expected.
+TC006,"Check Filter Functionality (Categories, Type, Price)",Filters show relevant products based on selections.,Filters apply correctly and products update as expected.,Pass,Filters update the product list properly.
+TC007,Check Product Add/Remove in Cart,Products can be added or removed from the cart.,Products are added and removed from the cart successfully.,Pass,Add/remove functionality works fine.
+TC008,Check Cart for Product Quantity and Price Update,Price updates when product quantity changes.,Cart total and product price are updated with quantity change.,Pass,Cart updates are correct when quantity changes.
+TC009,Check Cart for Correct Pricing,Prices in cart match product prices.,Cart shows correct pricing.,Pass,Cart pricing is accurate.
+TC010,Check Checkout Page,"Checkout page shows correct items, quantities, and prices.",Checkout page displays correct products and pricing.,Pass,Checkout page is functioning as expected.
+TC011,Check Responsive Design (Mobile View),Page adjusts properly for mobile screen size.,Page is responsive on mobile devices.,Pass,Site is responsive on mobile.
+TC012,Check Responsive Design (Desktop View),Page adjusts properly for desktop screen size.,Page is responsive on desktop devices.,Pass,Site is responsive on desktop.
+TC013,Check Product Detail Page for Correct Pricing,Product detail page displays correct price.,Correct price is shown on product detail page.,Pass,Price on product detail page is correct.
+TC014,Check Cart Functionality on Adding/Removing Items,Cart total updates when items are added or removed.,Cart total updates correctly.,Pass,Cart updates correctly when items are added/removed.
+TC015,Check Cart and Checkout Page for Mobile Responsiveness,Cart and checkout pages are mobile-friendly.,Cart and checkout pages are mobile-responsive.,Pass,Cart and checkout pages are responsive on mobile.
+TC016,Check Cart and Checkout Page for Desktop Responsiveness,Cart and checkout pages are desktop-friendly.,Cart and checkout pages are desktop-responsive.,Pass,Cart and checkout pages are responsive on desktop.
